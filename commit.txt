@@ -1,0 +1,71 @@
+commit 06c14f07cf398028576da840c2993ee4a8e48039
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:37:26 2015 +0100
+
+    ksiega12
+
+commit 1fd9a7909e84b4ca329ae396f5b3f0366b16e6d0
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:36:07 2015 +0100
+
+    ksiega11
+
+commit 8366a88b5f329373c06c2478d5410d0cce997985
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:35:08 2015 +0100
+
+    ksiega10
+
+commit 3a80ff63d395b53a084d67cdd3b582a322554487
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:34:15 2015 +0100
+
+    ksiega9
+
+commit 870ba7ed1919ce5229f022dd86d3145ad2204c38
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:33:20 2015 +0100
+
+    ksiega8
+
+commit 2f35461c06bdb480762cdaf042682305e2a594b6
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:32:18 2015 +0100
+
+    ksiega7
+
+commit 82a40b222c6959e6eaabdadb791931fc21e2c6af
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:31:19 2015 +0100
+
+    ksiega6
+
+commit ee63f8831ebee72a848154d02a1ad13b0deebdc8
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:30:00 2015 +0100
+
+    ksiega5
+
+commit 07e803070171cbe27d63e5571a0de7091915bb3e
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:29:01 2015 +0100
+
+    ksiega4
+
+commit 0f792fde11c54cbca0e275c9bc8d2ea365995ee2
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:27:47 2015 +0100
+
+    ksiega3
+
+commit df015fdceb5ee2f601dcc31b20850988c74bae9e
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:26:24 2015 +0100
+
+    ksiega2
+
+commit 690d35583e178e9a9a905f28310baf6ef778742f
+Author: Aleksandra Kolodziejczyk <s180609@v-ie.uek.krakow.pl>
+Date:   Sun Nov 15 23:25:09 2015 +0100
+
+    ksiega1
